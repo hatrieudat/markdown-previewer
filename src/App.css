@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+}
+
+#container {
+  width: 70%;
+  min-height: 500px;
+  background-color: rgb(25, 68, 148);
+  margin: 1em auto 0 auto;
+}

@@ -4,7 +4,8 @@ import Preview from './components/Preview';
 
 function App() {
   return (
-    <div>
+    <div id="container">
+      <h1>Markdown Previewer</h1>
       <EditorForm />
       <Preview />
     </div>

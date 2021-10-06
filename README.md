@@ -2,6 +2,8 @@
 
 This is a simple react app which will contain a textarea for Markdown input and a preview tab where the converted text will appear.
 
+And here's a link to the deployed version: [Markdown Previewer](http://markdown-previewer-reactjs.surge.sh)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata&display=swap");
+
+#editor {
+  border: none;
+  resize: none;
+  outline: none;
+  width: 95%;
+  height: 80vh;
+  padding: 15px;
+  font-size: 1em;
+  margin-bottom: 1.5em;
+  border-radius: 10px 10px 0 0;
+  font-family: "Inconsolata", monospace;
+  background-color: #444444;
+  color: #fff;
+  scrollbar-color: #bebebe transparent;
+  transition: 1.5s;
+}

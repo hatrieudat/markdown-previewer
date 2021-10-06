@@ -1,10 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@1,900&display=swap');
+
 * {
   box-sizing: border-box;
 }
 
+body {
+  background-color: #f0f0f0;
+}
+
 #container {
-  width: 70%;
+  width: 60%;
   min-height: 500px;
-  background-color: rgb(25, 68, 148);
   margin: 1em auto 0 auto;
+}
+
+#container > h1 {
+  text-align: center;
+  color: rgba(5, 181, 58, 0.75);
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 2.2rem;
+  font-weight: 900;
+}
+
+#wrapper {
+  width: 100%;
+  margin-bottom: 2em;
+  background-color: cornflowerblue;
+  border-radius: 15px 15px 0 0;
+  text-align: center;
+}
+
+#wrapper > h3 {
+  position: relative;
+  font-family: "Nunito Sans", sans-serif;
+  color: #fff;
+  cursor: pointer;
+  width: 100%;
+  padding: 5px 0;
+  margin: 0 auto;
+}
+
+#wrapper > h3 > .material-icons {
+  position: absolute;
+  font-size: 1.4em;
+  font-weight: bolder;
+  transition: 1s;
+}
+
+.flex {
+  display: flex;
+  flex-direction: column;
+}
+
+.rolated {
+  transform: rotate(180deg);
 }

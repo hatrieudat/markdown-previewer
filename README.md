@@ -2,7 +2,7 @@
 
 This is a simple react app which will contain a textarea for Markdown input and a preview tab where the converted text will appear.
 
-#####Technologies I use:
+##### Technologies I use:
 * Reactjs
 * Redux
 * HTML5, CSS3

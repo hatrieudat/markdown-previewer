@@ -11,7 +11,7 @@ This is a simple react app which will contain a textarea for Markdown input and 
   - HTML5, CSS3
   - Marked.js
 
-And here's a link to the deployed version: [Markdown Previewer](http://markdown-previewer-reactjs.surge.sh)
+And here's a link to the deployed version: [Markdown Previewer](http://markdown-previewer-reactjs.surge.sh).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

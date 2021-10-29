@@ -1,12 +1,15 @@
 # Build a Markdown Previewer with React.js
 
 This is a simple react app which will contain a textarea for Markdown input and a preview tab where the converted text will appear.
-
-##### Technologies I use:
-* Reactjs
-* Redux
-* HTML5, CSS3
-* Marked.js
+- What I've learned:
+  - Approach React and Redux.
+  - Review HTML5 and CSS3 knowledge.
+  - Learn to use JS libraries in React&Redux.
+- Technologies I use:
+  - Reactjs
+  - Redux
+  - HTML5, CSS3
+  - Marked.js
 
 And here's a link to the deployed version: [Markdown Previewer](http://markdown-previewer-reactjs.surge.sh)
 
